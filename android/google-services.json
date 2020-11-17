@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970890789767",
+    "firebase_url": "https://robocook-a5cff.firebaseio.com",
+    "project_id": "robocook-a5cff",
+    "storage_bucket": "robocook-a5cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970890789767:android:897bb0bd11c818bd6c0922",
+        "android_client_info": {
+          "package_name": "com.example.robocook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970890789767-16qc66g99qu1b2anoc50bjf29tg3ickc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5u65FsOhc9uwqe4Pc538HpzXPaLO1q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970890789767-16qc66g99qu1b2anoc50bjf29tg3ickc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
